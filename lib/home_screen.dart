@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'repository.dart';
-import 'bookmarks_screen.dart';
+import 'bookmark_screen.dart';
 import 'groceries_screen.dart';
 
 class HomeScreen extends StatelessWidget {
